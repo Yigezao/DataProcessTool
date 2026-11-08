@@ -1,0 +1,18 @@
+{
+  "name": "requirements.txt",
+  "path": "requirements.txt",
+  "sha": "a6b4cefe98f5e2ec4ea23e6dcdbfc4934f9f47ed",
+  "size": 985,
+  "url": "https://api.github.com/repos/Yigezao/DataProcessTool-legacy/contents/requirements.txt?ref=main",
+  "html_url": "https://github.com/Yigezao/DataProcessTool-legacy/blob/main/requirements.txt",
+  "git_url": "https://api.github.com/repos/Yigezao/DataProcessTool-legacy/git/blobs/a6b4cefe98f5e2ec4ea23e6dcdbfc4934f9f47ed",
+  "download_url": "https://raw.githubusercontent.com/Yigezao/DataProcessTool-legacy/main/requirements.txt?token=BRC4BK4IINVEXTN7XRFMZ5LK6B3OJAA",
+  "type": "file",
+  "content": "ewogICJuYW1lIjogInJlcXVpcmVtZW50cy50eHQiLAogICJwYXRoIjogInJl\ncXVpcmVtZW50cy50eHQiLAogICJzaGEiOiAiZDE5OGIyNzBlNWY5OTdmM2I1\nMGE2YzE2ZGIzMDVjZDI5ZjdmYjQ0OCIsCiAgInNpemUiOiAxNywKICAidXJs\nIjogImh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvWWlnZXphby9EYXRh\nUHJvY2Vzc1Rvb2wvY29udGVudHMvcmVxdWlyZW1lbnRzLnR4dD9yZWY9bWFp\nbiIsCiAgImh0bWxfdXJsIjogImh0dHBzOi8vZ2l0aHViLmNvbS9ZaWdlemFv\nL0RhdGFQcm9jZXNzVG9vbC9ibG9iL21haW4vcmVxdWlyZW1lbnRzLnR4dCIs\nCiAgImdpdF91cmwiOiAiaHR0cHM6Ly9hcGkuZ2l0aHViLmNvbS9yZXBvcy9Z\naWdlemFvL0RhdGFQcm9jZXNzVG9vbC9naXQvYmxvYnMvZDE5OGIyNzBlNWY5\nOTdmM2I1MGE2YzE2ZGIzMDVjZDI5ZjdmYjQ0OCIsCiAgImRvd25sb2FkX3Vy\nbCI6ICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vWWlnZXph\nby9EYXRhUHJvY2Vzc1Rvb2wvbWFpbi9yZXF1aXJlbWVudHMudHh0P3Rva2Vu\nPUJSQzRCSzZaT0hTVU41TVdDSktLM1NMSzZCM0I3QUEiLAogICJ0eXBlIjog\nImZpbGUiLAogICJjb250ZW50IjogImJuVnRjSGtLY0hscGJuTjBZV3hzWlhJ\nPVxuIiwKICAiZW5jb2RpbmciOiAiYmFzZTY0IiwKICAiX2xpbmtzIjogewog\nICAgInNlbGYiOiAiaHR0cHM6Ly9hcGkuZ2l0aHViLmNvbS9yZXBvcy9ZaWdl\nemFvL0RhdGFQcm9jZXNzVG9vbC9jb250ZW50cy9yZXF1aXJlbWVudHMudHh0\nP3JlZj1tYWluIiwKICAgICJnaXQiOiAiaHR0cHM6Ly9hcGkuZ2l0aHViLmNv\nbS9yZXBvcy9ZaWdlemFvL0RhdGFQcm9jZXNzVG9vbC9naXQvYmxvYnMvZDE5\nOGIyNzBlNWY5OTdmM2I1MGE2YzE2ZGIzMDVjZDI5ZjdmYjQ0OCIsCiAgICAi\naHRtbCI6ICJodHRwczovL2dpdGh1Yi5jb20vWWlnZXphby9EYXRhUHJvY2Vz\nc1Rvb2wvYmxvYi9tYWluL3JlcXVpcmVtZW50cy50eHQiCiAgfQp9Cg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/Yigezao/DataProcessTool-legacy/contents/requirements.txt?ref=main",
+    "git": "https://api.github.com/repos/Yigezao/DataProcessTool-legacy/git/blobs/a6b4cefe98f5e2ec4ea23e6dcdbfc4934f9f47ed",
+    "html": "https://github.com/Yigezao/DataProcessTool-legacy/blob/main/requirements.txt"
+  }
+}
